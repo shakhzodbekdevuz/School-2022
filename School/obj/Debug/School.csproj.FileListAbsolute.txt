@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2015\Projects\School\School\bin\Debug\School.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\School\School\bin\Debug\School.exe
+c:\users\admin\documents\visual studio 2015\Projects\School\School\bin\Debug\School.pdb
+c:\users\admin\documents\visual studio 2015\Projects\School\School\bin\Debug\Guna.UI2.dll
+c:\users\admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.exe
+c:\users\admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.pdb
+c:\users\admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.FirstPage.resources
+c:\users\admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.Login.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.Form1.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.st.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.Form2.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.teacher.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.load.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\School\School\obj\Debug\School.all.resources
