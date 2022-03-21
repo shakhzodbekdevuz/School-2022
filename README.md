@@ -1,7 +1,7 @@
 # School
 This is a variant of the small school program made in C#
 
-![Image Link](https://github.com/shakhzodbekdevuz/Send-data-from-the-website-to-the-bot/bot.png)
+![Image Link](https://github.com/shakhzodbekdevuz/School-2022/blob/main/1.png)
 ## Built With
 ---
 * C#
